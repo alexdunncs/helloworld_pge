@@ -1,7 +1,4 @@
 {
   "label": "edunn's Hello World",
-  "params": [],
-  "allowed_accounts": [
-    "_all_" 
-  ]
+  "params": []
 }
