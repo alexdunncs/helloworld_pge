@@ -2,7 +2,7 @@
   "command": "/home/ops/verdi/ops/edunn_helloworld/run_hello_world.sh",
   "recommended-queues": [ "factotum-job_worker-small" ],
   "params": [],
-  "disk_usage": "100MB",
+  "disk_usage": "10000MB",
   "soft_time_limit": 60,
   "time_limit": 120
 }
