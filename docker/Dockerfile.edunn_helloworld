@@ -4,9 +4,9 @@ ARG id
 ARG gid
 
 # copy job repo
-COPY . /home/ops/verdi/ops/hello_world
+COPY . /home/ops/verdi/ops/edunn_helloworld
 RUN set -ex \
- && sudo chown -R ops:ops /home/ops/verdi/ops/hello_world
+ && sudo chown -R ops:ops /home/ops/verdi/ops/edunn_helloworld
 
 # set entrypoint
 USER ops
